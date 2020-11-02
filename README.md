@@ -1,5 +1,5 @@
 # final-project
-
+https://www.notion.so/48d1b112fcd04129ab601c0692ef93cb
 ## 일지
  - 10/27 팀 결성, 협업도구 결정(디스코드), 프로젝트 주제 회의
  - 10/29 주제회의
